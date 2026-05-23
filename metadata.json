@@ -1,0 +1,5 @@
+{
+  "name": "wEpub - AI Book Publisher",
+  "description": "Convert raw text or files into professionally formatted EPUB books ready for Amazon KDP and Lulu using AI-powered structure detection.",
+  "requestFramePermissions": []
+}
